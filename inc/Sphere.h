@@ -9,7 +9,7 @@ namespace sa {
 		//~Sphere();
 		Sphere(float r);
 		void SetR(float r);
-		void SurfaceArea(float r);
-		void Volume(float r);
+		void SurfaceArea();
+		void Volume();
 	};
 }

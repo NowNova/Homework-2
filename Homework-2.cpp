@@ -7,7 +7,7 @@ int main()
     std::cin >> r;
     sa::Sphere Sp;
     Sp.SetR(r);
-    Sp.SurfaceArea(r);
-    Sp.Volume(r);
+    Sp.SurfaceArea();
+    Sp.Volume();
 }
 
